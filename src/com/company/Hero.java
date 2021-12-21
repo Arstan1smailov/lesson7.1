@@ -10,7 +10,4 @@ public abstract class Hero {
         this.HeroesAbility = ability;
         this.HeroesAttack = heroesAttack;
     }
-
-    protected Hero() {
-    }
 }
